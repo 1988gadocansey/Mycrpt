@@ -1,0 +1,13 @@
+{
+    "name": "gadocansey/gad",
+    "type": "public",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gad Ocansey",
+            "email": "gadocansey@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
